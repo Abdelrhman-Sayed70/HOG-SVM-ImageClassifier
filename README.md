@@ -6,7 +6,10 @@
 ![image_0014](https://github.com/Abdelrhman-Sayed70/HOG-SVM-ImageClassifier/assets/99830416/4187e1e0-5b6b-43d4-83d3-2c4e35e9ab6a)
 
 ![image_0001](https://github.com/Abdelrhman-Sayed70/HOG-SVM-ImageClassifier/assets/99830416/25235865-47f3-44dc-a403-58b528c3a35a)
+![image_0030](https://github.com/Abdelrhman-Sayed70/HOG-SVM-ImageClassifier/assets/99830416/797a59a2-23de-40ad-b67c-817b185aeb68)
+
 ![image_0002](https://github.com/Abdelrhman-Sayed70/HOG-SVM-ImageClassifier/assets/99830416/ce4a0a50-4403-4f4e-b58b-f91d2b695718)
+![image_0040](https://github.com/Abdelrhman-Sayed70/HOG-SVM-ImageClassifier/assets/99830416/e0c09b8e-2e2e-4259-9c83-08ca5b45a1ae)
 
 # Workflow
 - **We have 2 dataset training and testing datasets.**
